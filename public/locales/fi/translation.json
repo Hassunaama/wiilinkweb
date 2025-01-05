@@ -37,8 +37,17 @@
       "title": "Olemassa <0>teidän takia</0>!",
       "subtitle": "<0>WiiLink</0> on julkisesti rahoitettu <1>käyttäjien</1> ja <2>sponsorien</2> kautta. <3>Harkitsethan lahjoitusta käyttökulujemme kattamiseksi!</3>",
       "donators": "...ja liity kaikkien näitten <0>kivojen tyyppien</0> joukkoon:",
-      "popular": "Suosituin",
-      "powered": "Powered by"
+      "powered": "Powered by",
+      "thanks-tier-1": "Kiitos avusta!",
+      "thanks-tier-2": "Kiitos osallistumisesta!",
+      "thanks-tier-3": "No nyt on paljon rahaa!",
+      "thanks-tier-4": "Wow! Sä annat ihan liikaa!",
+      "info-tier-1": "Saa oikeudet <0><1></1> lahjoittaja-kanavalle</0>, ja tietysti <2><3></3> tunnustusta nettisivuillamme</2>!",
+      "info-tier-2": "Saat ikioman <0><1></1> elokuva julisteen</0> Wii Room:iin, <2><3></3> ravintolan</2> Food -kanavaan, sekä <4>kaikki Violet tason edut</4>!",
+      "info-tier-3": "Saat ikioman <0><1></1> Mii:n</0> Wii Room:iin, oikeudet <2><3></3> Testaajien Discord chattiin</2>, sekä <4>kaikki Lilac tason edut</4>!",
+      "info-tier-4": "Voit tehdä ikioman <0><1></1> huoneen</0> Wii Room:iin, sekä <2>kaikki Tulip tason edut</2>!",
+      "sub": "Tilaa vain </0> kuukaudessa",
+      "local-currency": "€"
     },
     "header": {
       "home": "Koti",
@@ -66,14 +75,14 @@
     "socials": {
       "title": "Katso projektin <0>sosiaalisen median kanavat</0>!",
       "subtitle": "Pysy ajan tasalla kaikista palvelun <0>päivityksistä</0> ja <1>yleisistä ilmoituksista</1> tai liity meidän Discord-palvelimelle.",
-      "twFollowers": "3-tuhatta seuraajaa",
+      "twFollowers": "seuraajaa",
       "twFollow": "Seuraa",
       "twTweets": "Twiittejä käyttäjältä WiiLink24",
-      "dcMembers": "26-tuhatta jäsentä",
+      "dcMembers": "jäsentä",
       "dcJoin": "Liity",
-      "ghFollowers": "103 seuraajaa",
+      "ghFollowers": "seuraajaa",
       "ghFollow": "Seuraa",
-      "ytSubscribers": "2.1-tuhatta tilaajaa",
+      "ytSubscribers": "tilaajaa",
       "ytSubscribe": "Tilaa"
     },
     "team": {
